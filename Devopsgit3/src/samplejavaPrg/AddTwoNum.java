@@ -17,6 +17,12 @@ public class AddTwoNum {
 		int add;
 		add=a+b+c;
 		System.out.println("Sum of 3 numbers:"+add);
+		
+		//adding addition of 4 numbers
+		int d=45;
+		int temp1;
+		temp1=a+b+c+d;
+		System.out.println("Sum of 4 numbers:"+temp1);
 				
 	}
 
