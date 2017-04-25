@@ -12,6 +12,11 @@ public class AddTwoNum {
 		b=45;
 		sum=a+b;
 		System.out.println("Sum of two numbers:"+sum);
+		//adding addition of 3 numbers code
+		int c=23;
+		int add;
+		add=a+b+c;
+		System.out.println("Sum of 3 numbers:"+add);
 				
 	}
 
